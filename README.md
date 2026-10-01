@@ -1,7 +1,7 @@
 <p align="center"><img src="docs/images/icon.png" width="88" alt=""></p>
 
 <h1 align="center">Seed Library</h1>
-<p align="center">别让好内容在收藏夹吃灰</p>
+<p align="center">自动存档你看到的好内容</p>
 
 <p align="center">
   <a href="../../releases/latest"><b>下载最新测试版</b></a> ·
